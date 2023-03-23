@@ -6,6 +6,8 @@ import maisVistas from '../../assets/icones/mais-vistas.png';
 import novas from '../../assets/icones/novas.png';
 import surpreendaMe from '../../assets/icones/surpreenda-me.png';
 
+import icones from './icones.json';
+
 const Menu = () => {
   return (
     <>

@@ -1,19 +1,8 @@
 import './styles/globalStyles.scss';
-
-
 import Home from './components/Home/Home';
 
-
-
 function App() {
-  return (
-    <div>
-
-    <Home />
-
-      
-    </div>
-  );
+  return <Home />;
 }
 
 export default App;
