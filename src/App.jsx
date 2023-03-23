@@ -1,15 +1,17 @@
 import './styles/globalStyles.scss';
 
 import Header from "./components/Header/Header";
-import Home from "./components/Home/Home";
+import Menu from './components/Menu/Menu';
+import Home from './components/Home/Home';
+
 
 
 function App() {
   return (
     <div>
 
-    <Header />
     <Home />
+
       
     </div>
   );
